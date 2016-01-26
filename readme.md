@@ -1,6 +1,6 @@
 # Laravel 5 SQL Logger
 
-Laravel 5 package for loggin SQL queries.
+Laravel 5 package for logging SQL queries.
 
 ## Install
 
