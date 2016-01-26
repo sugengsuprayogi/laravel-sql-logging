@@ -7,7 +7,7 @@ Laravel 5 package for loggin SQL queries.
 Require this package with composer using the following command:
 
 ```bash
-composer require oscaragcp/sql-logging
+composer require libern/laravel-sql-logging
 ```
 
 Or just add oscaragcp/sql-logging to your composer.json file:
@@ -15,7 +15,7 @@ Or just add oscaragcp/sql-logging to your composer.json file:
 ```js
 {
     "require": {
-        "oscaragcp/sql-logging": "dev-master"
+        "libern/laravel-sql-logging": "dev-master"
     }
 }
 ```
