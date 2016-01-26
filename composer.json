@@ -1,5 +1,5 @@
 {
-  "name": "oscaragcp/sql-logging",
+  "name": "libern/laravel-sql-logging",
   "description": "Laravel 5 package for logging SQL queries.",
   "keywords": [
     "laravel",
