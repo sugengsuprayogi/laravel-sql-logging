@@ -10,6 +10,6 @@ return [
       |
      */
 
-    'log' => env('SQL_LOG', true),
+    'log' => env('SQL_LOG', false),
     'log_request' => env('SQL_LOG_REQUEST', true),
 ];
