@@ -10,7 +10,7 @@ Require this package with composer using the following command:
 composer require libern/laravel-sql-logging
 ```
 
-Or just add oscaragcp/sql-logging to your composer.json file:
+Or just add libern/laravel-sql-logging to your composer.json file:
 
 ```js
 {
